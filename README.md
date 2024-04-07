@@ -1,5 +1,9 @@
-# 💫 About Me:
-👨🏽‍💻currently working on my portfolio<br>👯‍♂️looking for people to collab with on projects<br>🌱currently learning react.js
+# 🧑🏽‍🦱About me:
+
+I'm a passionate developer with a strong foundation in the MERN stack. I bring my expertise in React to build dynamic and user-friendly web applications.
+
+# 💫 Bio:
+👨🏽‍💻 portfolio in progress<br>👯‍♂️looking for people to collab with on projects<br>🌱working towards a public repo for my web apps
 
 
 ## 🌐 Socials:
